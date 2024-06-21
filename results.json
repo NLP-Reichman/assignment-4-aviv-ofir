@@ -6,6 +6,15 @@
       500
     ]
   },
-  "test_prepare_data": "IndexError('too many indices for tensor of dimension 2')",
+  "test_prepare_data": {
+    "dev_texts_shape": [
+      250,
+      67
+    ],
+    "train_labels_shape": [
+      1750,
+      83
+    ]
+  },
   "test_model": "ValueError(\"You should supply an encoding or a list of encodings to this method that includes input_ids, but you provided ['labels']\")"
 }
