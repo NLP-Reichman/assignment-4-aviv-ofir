@@ -9,11 +9,11 @@
   "test_prepare_data": {
     "dev_texts_shape": [
       250,
-      128
+      61
     ],
     "train_labels_shape": [
       1750,
-      128
+      77
     ]
   },
   "test_model": {
